@@ -1,3 +1,1 @@
-# the-git-rocks-2
-
-I love git.
+# The git is actually rocking.
